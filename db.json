@@ -1,0 +1,29 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "name": "Awesome"
+    },
+    {
+      "id": 2,
+      "name": "Rustic"
+    }
+  ],
+  "products": [
+    {
+      "id": "4g006rbok",
+      "cate_id": "2",
+      "name": "Nguyễn Trung Tín",
+      "image": "https://firebasestorage.googleapis.com/v0/b/images-baf81.appspot.com/o/images%2Fanh2.jpg?alt=media&token=63a6d1f9-f255-4436-9cf2-4612896b2c80",
+      "price": "123"
+    },
+    {
+      "id": "s9m1037re",
+      "cate_id": "1",
+      "name": "tinntph08451",
+      "image": "https://firebasestorage.googleapis.com/v0/b/images-baf81.appspot.com/o/images%2Fhinh-anh-luffy-dep-nhat-trong-phim-onepiece-3.jpg?alt=media&token=6a6937f3-8c31-4234-ab57-40f80a882644",
+      "price": "123"
+    }
+  ],
+  "posts": []
+}
